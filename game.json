@@ -8,6 +8,11 @@
 			"type": "script",
 			"path": "script/main.js",
 			"global": true
+		},
+		"parameters": {
+			"type": "script",
+			"path": "script/parameters.js",
+			"global": true
 		}
 	},
 	"environment": {
